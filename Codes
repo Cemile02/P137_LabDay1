@@ -1,0 +1,47 @@
+//Istifadeciden deyer alirsiz.Ekrana capa verirsiz: sizin yasiniz 30 dan boyukdur
+#region Istifadeciden deyer alirsiz.Ekrana capa verirsiz: sizin yasiniz 30 dan boyukdur
+//Console.WriteLine("ededi daxil edin: ");
+//string eded = Console.ReadLine();
+//Console.WriteLine("Sizin yasiniz " + eded + "dan boyukdur");
+#endregion
+
+#region Ele kod yazin ki (a+b)^2 hesablasin   a=2, b=3 cavab: 25
+//Console.WriteLine("eded 1 i daxil edin:");
+//int eded1=int.Parse(Console.ReadLine());//2
+//Console.WriteLine("eded 2 i daxil edin:");
+//int eded2 = int.Parse(Console.ReadLine());//3
+//int result = (eded1 + eded2) * (eded1 + eded2);//5*5
+//Console.WriteLine("result");
+#endregion
+
+#region Stringlerin birlesmesi:  word1=cemile ,word2=ismayilzade  cavab: cemileismayilzade 
+//Console.WriteLine("soz1 i daxil edin:");
+//string name=Console.ReadLine();
+//Console.WriteLine("soz2 i daxil edin:");
+//string surname = Console.ReadLine();
+//Console.WriteLine(name+" "+surname);
+#endregion
+
+#region Eded menfidirse true donderir
+// < > 
+//Console.WriteLine("eded  i daxil edin:");
+//int eded=int.Parse(Console.ReadLine());
+//Console.WriteLine(eded<0);
+#endregion
+
+#region  Cevrenin sahesini tapmaq :  r=3, pi=3.14  sahe=pi*r*r
+//Console.WriteLine("radiusu daxil edin:");
+//int radius=int.Parse(Console.ReadLine());
+//Console.WriteLine("pini daxil edin:");
+//float pi = float.Parse(Console.ReadLine());
+//float sahe = radius * radius * pi;//semicolon
+//Console.WriteLine("Sahe:  "+sahe);
+#endregion
+#region Reqemlerin cemi:  34 =>  3+4=7
+//Console.WriteLine("eded daxil edin:");
+//int eded=int.Parse(Console.ReadLine());//34
+//int evvel = eded / 10;//3
+//int sonra=eded % 10;//4
+//int sum=evvel+sonra;
+//Console.WriteLine("Bu ededin reqemleri cemi: "+sum);
+#endregion
